@@ -13,7 +13,11 @@ stories and make profitable desicision.
 The primary source of data used is data on sale.CSV and be freely downloaded from an open source online such as KAGGLEOR or FRED or any 
 other data repository site.
 
-### TOOLS USED
-- MS EXCEL fOr data capturing, cleansing and visualization
-- SQL SERVER - STRUCTURE QUERIES LANGUAGES used for queries data
-- GitHUB for portofolio building
+### TOOLS USED. 
+- MS EXCEL [Download Here](https:// www.microsoft.com)
+1.  For Data capturing,
+2.  For  Data Cleansing
+3.  For Visualization
+- 
+- SQL SERVER - Structure  Qureries LanguageS used for queries data
+- GitHUB for Portofolio Building
