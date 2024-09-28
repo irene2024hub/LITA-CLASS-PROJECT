@@ -14,5 +14,6 @@ The primary source of data used is data on sale.CSV and be freely downloaded fro
 other data repository site.
 
 ### TOOLS USED
-MS EXCEL fOr data capturing, cleansing and visualization
-SQL SERVER - stRUCTURE QUERIES LANGUAGES
+- MS EXCEL fOr data capturing, cleansing and visualization
+- SQL SERVER - STRUCTURE QUERIES LANGUAGES used for queries data
+- GitHUB for portofolio building
