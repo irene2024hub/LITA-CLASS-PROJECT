@@ -45,4 +45,6 @@ Where Condition = True
 ```
 ### DATA VISUALIZATION
 
+![image](https://github.com/user-attachments/assets/f64af46f-9bc1-4cae-acb6-7586a287bc64)
+
 
