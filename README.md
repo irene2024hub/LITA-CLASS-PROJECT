@@ -2,7 +2,20 @@
 
 ### PROJECT TITLE: CE KETU VENTURE SALES ANALYSIS
 
-### PROJECT REVIEW
+
+[PROJECT REVIEW](#project-review)
+
+DATA SOURCE
+
+TOOLS USED
+
+DATA CLEANING AND PREPARATIONS
+
+EXPLORATORY DATA ANALYSIS
+
+DATA VISUALIZATION
+
+---
 ---
 This data analysis project aims to generate detailed insight into the sales performance of the CE KETU VENTURE over the years.
 By analysis various parameter received, we are designed to generate reasonable decisons that will enable us to tell a compelling
