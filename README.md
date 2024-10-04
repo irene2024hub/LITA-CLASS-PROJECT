@@ -5,8 +5,8 @@
 ### PROJECT REVIEW
 ---
 This data analysis project aims to generate detailed insight into the sales performance of the CE KETU VENTURE over the years.
-by aBy analysis various parameter received, we are designed to generate reasonable decisons that will enable us to tell a compelling
-stories and make profitable desicision.
+By analysis various parameter received, we are designed to generate reasonable decisons that will enable us to tell a compelling
+stories and make profitable decision.
 
 ### DATA SOURCE
 ---
@@ -47,4 +47,6 @@ Where Condition = True
 
 ![image](https://github.com/user-attachments/assets/f64af46f-9bc1-4cae-acb6-7586a287bc64)
 
-
+|HEADING 1 |HEADING 2|HEADING 3|
+|----------|---------|---------|
+|TABLE 1|TABLE 2| TABLE 3|
